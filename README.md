@@ -1,21 +1,10 @@
 <h1 align="center">Hey 👋, I'm Amine</h1>
-<h3 align="center">Software engineering student/ android/ios developer</h3>
+<h3 align="center">Full stack software developer</h3>
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-
-- I've made a [Chess game](https://github.com/01amine/chess_app)
-
-- I've made a [QR-code scanner](https://github.com/01amine/MC_Check)
-
-- I've made a [Weather Api App](https://github.com/01amine/Weather-App)
-
-- 🌱 I can make full stack mobile apps with **Flutter, restful api, firebase,**
+- 🌱 I can make full stack mobile and web apps**
 
 - 📫 How to reach me [heddouchemohamedamine@gmail.com](heddouchemohamedamine@gmail.com)
-
-- 💬 I create api's with **Php**
-
-- I create Data bases with **MySql**
 
 - Soft skills : **Communication, team leading, work under pressure**
 

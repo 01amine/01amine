@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="600"/>
   
   <h1>Wesh l'equipe!</h1>
-  <h3>Full Stack Mobile & Software Developer</h3>
+  <h3>Mobile Developer</h3>
   
   <p><em>Building seamless mobile experiences and intelligent solutions</em></p>
   
@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate full stack developer specializing in mobile application development with expertise in cross-platform and native solutions. I combine modern mobile frameworks with AI technologies to create intelligent, user-centric applications.
 
-- 📱 Mobile development specialist with **Flutter**, **Kotlin**, and **Swift**
-- 🤖 Building AI agents and intelligent systems with **Python**
-- 💻 Strong foundation in **Java** and full stack web development
-- 🎯 Creating seamless user experiences across mobile and web platforms
-- 🌱 Always learning and exploring emerging technologies
+-  Mobile development specialist with **Flutter**, **Kotlin**, and **Swift**
+-  Building AI agents and intelligent systems with **Python**
+-  Strong foundation in **Java** and full stack web development
+-  Creating seamless user experiences across mobile and web platforms
+-  Always learning and exploring emerging technologies
 
-## 💼 Core Competencies
+##  Core Competencies
 
 ```
 Mobile Development    ████████████████████  Flutter, Kotlin, Swift
@@ -35,7 +35,7 @@ AI & Machine Learning ██████████████░░░░░�
 Web Technologies      ███████████████░░░░░  HTML, CSS, JavaScript
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Mobile Development
 <p>
@@ -70,30 +70,30 @@ Web Technologies      ███████████████░░░░�
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 🎯 What I Bring to the Table
+##  What I Bring to the Table
 
-- **💡 Problem Solving**: Crafting efficient solutions to complex technical challenges
-- **🤝 Communication**: Clear and effective collaboration with cross-functional teams
-- **👥 Team Leadership**: Guiding teams to deliver high-quality products on time
-- **⚡ Pressure Management**: Thriving in fast-paced, deadline-driven environments
-- **🔄 Adaptability**: Quick learner with a passion for emerging technologies
+- ** Problem Solving**: Crafting efficient solutions to complex technical challenges
+- ** Communication**: Clear and effective collaboration with cross-functional teams
+- ** Team Leadership**: Guiding teams to deliver high-quality products on time
+- ** Pressure Management**: Thriving in fast-paced, deadline-driven environments
+- ** Adaptability**: Quick learner with a passion for emerging technologies
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01amine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 > *Pin your best repositories to showcase your work!*
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out!
 
 - 📧 Email: [heddouchemohamedamine@gmail.com](mailto:heddouchemohamedamine@gmail.com)
-- 💼 LinkedIn: [Heddouche Mohamed Amine](https://linkedin.com/in/heddouche-mohamed-amine)
+-  LinkedIn: [Heddouche Mohamed Amine](https://linkedin.com/in/heddouche-mohamed-amine)
 
 ---
 

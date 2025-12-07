@@ -72,17 +72,11 @@ Web Technologies      ███████████████░░░░�
 
 ##  What I Bring to the Table
 
-- ** Problem Solving**: Crafting efficient solutions to complex technical challenges
-- ** Communication**: Clear and effective collaboration with cross-functional teams
-- ** Team Leadership**: Guiding teams to deliver high-quality products on time
-- ** Pressure Management**: Thriving in fast-paced, deadline-driven environments
-- ** Adaptability**: Quick learner with a passion for emerging technologies
-
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01amine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+- Problem Solving: Crafting efficient solutions to complex technical challenges
+- Communication: Clear and effective collaboration with cross-functional teams
+- Team Leadership: Guiding teams to deliver high-quality products on time
+- Pressure Management: Thriving in fast-paced, deadline-driven environments
+- Adaptability: Quick learner with a passion for emerging technologies
 
 ##  Let's Connect
 

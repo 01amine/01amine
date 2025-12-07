@@ -84,10 +84,6 @@ Web Technologies      ███████████████░░░░�
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01amine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-##  Featured Projects
-
-> *Pin your best repositories to showcase your work!*
-
 ##  Let's Connect
 
 I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out!

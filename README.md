@@ -82,8 +82,8 @@ Web Technologies      ███████████████░░░░�
 
 I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out!
 
-- 📧 Email: [heddouchemohamedamine@gmail.com](mailto:heddouchemohamedamine@gmail.com)
--  LinkedIn: [Heddouche Mohamed Amine](https://linkedin.com/in/heddouche-mohamed-amine)
+- Email: [heddouchemohamedamine@gmail.com](mailto:heddouchemohamedamine@gmail.com)
+-  LinkedIn: [Heddouche Mohamed Amine]([https://linkedin.com/in/heddouche-mohamed-amine](https://www.linkedin.com/in/heddouchemohamedamine/))
 
 ---
 

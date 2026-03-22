@@ -4,7 +4,7 @@
   <h1>Wesh l'equipe!</h1>
   <h3>Mobile Developer</h3>
   
-  <p><em>Building seamless mobile experiences and intelligent solutions</em></p>
+  <p><em>Building seamless mobile experiences and innovative solutions</em></p>
   
   <a href="https://linkedin.com/in/heddouche-mohamed-amine" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -18,13 +18,13 @@
 
 ##  About Me
 
-I'm a passionate full stack developer specializing in mobile application development with expertise in cross-platform and native solutions. I combine modern mobile frameworks with AI technologies to create intelligent, user-centric applications.
+I'm a full stack developer specializing in mobile apps development with expertise in cross-platform frameworks. I combine modern mobile frameworks with AI technologies to create applications that solves real world problems.
 
--  Mobile development specialist with **Flutter**, **Kotlin**, and **Swift**
--  Building AI agents and intelligent systems with **Python**
--  Strong foundation in **Java** and full stack web development
+-  Mobile development with **Flutter**, **Kotlin**, and **Swift**
+-  Building AI agents and intelligent systems with **Python**, **Agno**, **Langchain**, **LangGraph** and **GraphRag**
+-  Strong foundation in **Java** and **SpringBoot**
 -  Creating seamless user experiences across mobile and web platforms
--  Always learning and exploring emerging technologies
+-  Always learning and exploring new technologies
 
 ##  Core Competencies
 
@@ -75,7 +75,6 @@ Web Technologies      ███████████████░░░░�
 - Problem Solving: Crafting efficient solutions to complex technical challenges
 - Communication: Clear and effective collaboration with cross-functional teams
 - Team Leadership: Guiding teams to deliver high-quality products on time
-- Pressure Management: Thriving in fast-paced, deadline-driven environments
 - Adaptability: Quick learner with a passion for emerging technologies
 
 ##  Let's Connect
